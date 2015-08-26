@@ -8,8 +8,8 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello Project\n";
+	cout << "Hello Project\n";//Output
 	int a;
-	cin >> a;
+	cin >> a;//Keep Console Open
 }
 
