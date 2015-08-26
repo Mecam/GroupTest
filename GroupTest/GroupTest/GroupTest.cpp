@@ -8,7 +8,7 @@ using namespace std;
 
 void main()
 {
-	cout << "Deez Nuts\n";//Output
+	cout << "Deez Nuts....Eat Em\n";//Output
 	int a;
 	cin >> a;//Keep Console Open
 }
