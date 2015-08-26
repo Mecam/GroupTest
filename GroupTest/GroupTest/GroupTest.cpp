@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
-#include <C:/Users/Conner/Desktop/Programming/Visual Studio/Libraries/GLlibs/GL/glew.h>
 using namespace std;
 
 void main()
